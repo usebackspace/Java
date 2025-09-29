@@ -1,6 +1,6 @@
 // Calling Static Method inside Static Method:Can be called directly — no object needed
 
-// Calling Static Method inside Instance Method:Can also be called directly — no object needed
+// Calling Static Method inside Instance Method:Can also be called directly — no object needed (In same class)
 
 
 class AvengerStatic {

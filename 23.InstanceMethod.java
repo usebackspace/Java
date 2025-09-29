@@ -1,4 +1,4 @@
-// Calling Instance Method inside static method:- We cannot call instance method directly inside static method we have to create object of the class.
+// Calling Instance Method inside static method:- We cannot call instance method directly inside static method (main method) we have to create object of the class.
 
 // Calling instance Method in Instance Method/ Nesting of Method:- Instance method can call an instance method directly. We don't need to create a object of the class. 
 
