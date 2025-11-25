@@ -1,4 +1,4 @@
-public class FinalKeywords {
+class FinalKeywords {
     
 
     public static void main(String[] args) {
