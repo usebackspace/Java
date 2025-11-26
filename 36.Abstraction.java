@@ -43,18 +43,7 @@ class Abstraction {
         t.introduce();
         t.attack();
 
-        // Abstraction and Polymorphism 
-        Avenger hero; // Reference declared
-        
-        // hero = new IronMan();
-        // hero.name = "Iron Man";
-        // hero.introduce();
-        // hero.attack();
-
-        // hero = new Thor();
-        // hero.name = "Thor";
-        // hero.introduce();
-        // hero.attack();
+       
 
     }
 }
