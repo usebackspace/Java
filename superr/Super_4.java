@@ -8,8 +8,8 @@ class A {
 
 class B extends A {
      void show() {
-         System.out.println("Show method called of Class B ");
          super.show();
+         System.out.println("Show method called of Class B ");
     }
 }
 
