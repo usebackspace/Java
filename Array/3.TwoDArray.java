@@ -47,20 +47,6 @@ class TwoDArray {
             }
             System.out.println();
         }
-        System.out.println("=====================");
-
-        System.out.println("Accessing 2D Array of Strings:");
-        String[][] names = {
-            {"Alice", "Bob", "Charlie"},
-            {"David", "Eva", "Frank"},
-            {"Grace", "Hannah", "Ian"}
-        };
-
-        for (String[] row : names) {
-            for (String name : row) {
-                System.out.print(name + " ");
-            }
-            System.out.println();
-        }
+        
     }
 }
