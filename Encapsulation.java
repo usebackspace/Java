@@ -7,6 +7,8 @@ public class Encapsulation {
 
         Student_Enc s1 = new Student_Enc();
         s1.setAge(-10);   // Cannot set invalid value
+        s1.setName("Steve Roger");
+        System.out.println(s1.getName());
     }
 }
 
